@@ -1,4 +1,6 @@
 fastapi
 uvicorn
-motor
+#motor
 pydantic
+sqlalchemy
+psycopg2-binary
