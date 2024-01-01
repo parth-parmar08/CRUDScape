@@ -1,2 +1,3 @@
 venv
-app
+app1/__pycache__
+app1/routers/__pycache__

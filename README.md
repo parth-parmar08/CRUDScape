@@ -1,6 +1,6 @@
 # This Repository is for Learning Purposes.
 
-## In here we will be creating a FastAPI using the understanding of below mentioned topics
+## In here we will be creating a FastAPI for CRUD in PostgreSQL using the understanding of below mentioned topics
 1. APIRouter
 2. Pydantic Models
 3. Response Status Code
